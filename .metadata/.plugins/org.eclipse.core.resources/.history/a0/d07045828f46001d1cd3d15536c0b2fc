@@ -1,0 +1,5 @@
+package com.Qickzo.TodoApp.repository;
+
+public interface EmployeeRepository {
+
+}
