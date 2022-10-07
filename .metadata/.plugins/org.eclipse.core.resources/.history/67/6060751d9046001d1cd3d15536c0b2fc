@@ -1,0 +1,5 @@
+package com.Qickzo.TodoApp.exeception;
+
+public class ResourceNotFoundException {
+
+}
